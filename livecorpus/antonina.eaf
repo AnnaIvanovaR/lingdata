@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T03:30:59+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/mvideo/Desktop/Исповедь бабушки Антонины, д.Макарово, Смоленская область. Автор видео Олег Козлов.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Исповедь бабушки Антонины, д.Макарово, Смоленская область. Автор видео Олег Козлов.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d5362002-ec70-4162-b692-186ae11b4ed3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">41</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="12310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="12508"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="13497"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="15010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="15554"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15703"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="17003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="17529"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20987"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="27013"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="27396"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="30801"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="31110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="33213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="33226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="35310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="42080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="42481"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="45270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="45348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="46888"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="46938"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="49751"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="50284"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="52698"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="53069"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="55266"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="55650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="59633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="59967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="62804"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="63198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="65003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="65786"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="68893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="68911"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="71584"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="@AnnaIvanovaR" LINGUISTIC_TYPE_REF="text" TIER_ID="text@gas1929f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>здрасте / здрасте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>здрасте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>я / Горешенко Антонина Сергеевна / /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>родилася я / в тыща девятьсот двадцать девятом году, / в совхозе Скреплево, / вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>и с тех пор / и живу в де... деревню, сельский местности</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>работала много, / очень много //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>мне щас восемьдесят три года, / да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>и я все равно болею, / как / погляжу чтоб у колхозе / около моего дома валяются рулоны гнелые //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>это / не было раньше, / как мы работали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>мы и ночь, и день работали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>я двадцать пять лет коров продоила, / и всё //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>в семье я была самая старшая, / да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>самая старшая, / вся работа была на мне //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ах, / у то время работали н... / не на деньги, / а на трудодни //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>получим хлебушка, / этой / кастерём тама //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>чтож, / нас детей много, ну //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>хл... спякут там буханка какаю... / ну жри так, / вот так вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@AnnaIvanovaR" LINGUISTIC_TYPE_REF="text" TIER_ID="text@man">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>здравствуйте бабушка //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>представьтесь пожалуйста //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Антонина Сергеевна, / у вас были дети? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@AnnaIvanovaR" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@gas1929f" TIER_ID="trans@babushka">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Hello, hello!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Hello!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I'm Goreshenko Antonina Seregeevna.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>I was born in 1929 on the Screplevo state farm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>And since then I have been living in the village, in the countryside.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>I worked very hard, very, very hard.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>I'm 83 now, yeah.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>And I still worry when I see the dirty rolls lying around the farm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>There was no such thing before, the way we worked.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>We worked day and night.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>I have milked cows for 25 years.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>I was the oldest in the family, yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>II was the oldest, I did all the work.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Ah, at that time they worked not for money, but for working days.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>We got some bread ... (untranslatable)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Well, there were many of us children.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>They will bake some loaf, well, eat it like that.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="@AnnaIvanovaR" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@man" TIER_ID="trans@ok1980m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Hello, grandmother.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Introduce yourself.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Antonina Sergeevna, did you have children?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
